@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","SlideComments"],"mappings":";;;;;;;AAAAA,QACC,kBACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./SideComments\"\r\n],function(SlideComments){\r\n\treturn SlideComments;\r\n});"]}
